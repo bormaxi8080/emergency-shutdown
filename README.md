@@ -58,11 +58,11 @@ Beta-версия скрипта очистки пользовательских
 **Что делает скрипт:**
 
 - Закрывает открытые браузеры Google Chrome, Mozilla Firefox, Apple Safari.
-- Очищает историю, кэш и сохраненные пароли браузеров Google Chrome, Mozilla Firefox, Apple Safari, удалят файлы cookies, сессии и сохраненные пароли.
+- Очищает историю, кэш и сохраненные пароли браузеров Google Chrome, Mozilla Firefox, Apple Safari, удаляет файлы cookies, сессии и сохраненные пароли.
 - Очищает историю сообщений, сессии и сохраненные пароли в мессенджерах Telegram, Skype, Signal, Zoom, Discord.
 - [TODO]: Удаляет с вашего Mac приложение WhatsApp, если оно установлено. История и сессия WhatsApp Web чистятся вместе с браузерами. 
 - [TODO]: При необходимости полностью удаляет браузеры Google Chrome, Mozilla Firefox, Apple Safari, мессенджеры Telegram, WhatsApp, Skype, Signal, Zoom, Discord, приложения DropBox и Vera Crypt с вашего компьютера.
-- [TODO]: (Настраивается) Полностью удаляет содержимое указанных вами папок.
+- [TODO]: [Optional] Полностью удаляет содержимое указанных вами папок.
 - [TODO]: Безвозвратно удаляет некоторые приложения с вашего Mac и чистит их историю.
 - Очищает историю вызыемых вами системных команд в terminal (bash, zsh).
 - Очищает корзину.
@@ -159,6 +159,4 @@ maxim.goodjob@gmail.com
 
 Telegram: @bormaxi
 
-![alt text](img/bormaxi.jpeg "Максим Борщев")
-
-С уважением, Максим Борщев
+С уважением, коллектив авторов.
