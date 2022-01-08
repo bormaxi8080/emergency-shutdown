@@ -1,8 +1,8 @@
-# EmergencyShutdown
+# emergency-shutdown
 
 ## Emergency shutdown scripts for different operating systems
 
-> https://github.com/bormaxi8080/EmergencyShutdown
+> https://github.com/bormaxi8080/emergency-shutdown
 
 ![alt text](img/cover.jpeg "Опять обыск?")
 
